@@ -10,4 +10,8 @@ Currently, two official plugins are available:
 =======
 # SpringWithReact
 Simple react page to connect with spring back-end
->>>>>>> 537a790687234a1abf3f52eba1bb9a7ce5fc706b
+
+# How to install
+1. git clone <url>
+2. (In terminal) cd <route to project>
+3. yarn install
